@@ -191,10 +191,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char2}.jpg`}
+                src={`/images/EG012/EG012-${char2}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 2</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
@@ -209,10 +209,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char3}.jpg`}
+                src={`/images/EG020/EG020-200P-${char3}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 3</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
@@ -227,10 +227,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char4}.jpg`}
+                src={`/images/EG022/EG022-100P-${char4}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 4</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
@@ -245,10 +245,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char5}.jpg`}
+                src={`/images/EG074/EG074-100P-${char5}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 5</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
@@ -263,10 +263,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char6}.jpg`}
+                src={`/images/EG075/EG075-200P-${char6}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 6</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
@@ -281,10 +281,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char7}.jpg`}
+                src={`/images/EG094/EG094-200P-${char7}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 7</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
@@ -299,10 +299,10 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`/images/EG009/EG009-${char8}.jpg`}
+                src={`/images/EG115/EG115-100P-${char8}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">Engagement Ring 1</div>
+                <div className="text-sm mb-1">Engagement Ring 8</div>
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">

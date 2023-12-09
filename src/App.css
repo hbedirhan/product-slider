@@ -1,11 +1,11 @@
 @font-face {
     font-family: Avenir-Book;
-    src: url('./assets//Fonts/Avenir-Book.ttf');
+    src: url('/assets/Fonts/Avenir-Book.ttf');
 }
 
 @font-face {
     font-family: Montserrat-Medium;
-    src: url('./assets/Fonts/MontserratAlternates-Medium.otf');
+    src: url('/assets/Fonts/MontserratAlternates-Medium.otf');
 }
 
 span svg path {

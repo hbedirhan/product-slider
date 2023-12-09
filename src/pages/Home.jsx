@@ -12,7 +12,7 @@ function Home() {
         <ThemeToggle/>
         <Navbar/>
         <Title/>
-        {/* <Popup/> */}
+        <Popup/>
         <Slider/>
         <ViewButton/>
     </>

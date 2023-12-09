@@ -10,11 +10,11 @@ function Card({ product, selectedColors, handleClick }) {
                     src={product.images[selectedColors[product.id]] || product.images['Yellow Gold']}
                     alt={`Product ${product.id}`} />
             </NavLink>
-            <div className="py-4 font-['Montserrat-Medium']">
-                <div className="text-sm mb-1">{product.title}</div>
-                <p className="text-base">{product.price}</p>
+            <div className="pt-4 pb-2 font-['Montserrat-Medium']">
+                <div className="text-[15px] mb-1">{product.title}</div>
+                <p className="text-[17px]">{product.price}</p>
             </div>
-            <div className="py-2">
+            <div className="pt-2">
                 <button
                     className={`cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black`}
                     onClick={() => handleClick(product.id, 'Yellow Gold')}>
@@ -29,7 +29,7 @@ function Card({ product, selectedColors, handleClick }) {
                 </button>
             </div>
             {selectedColors[product.id] && (
-                <div className="inline-block font-['Avenir-Book'] text-sm">
+                <div className="inline-block font-['Avenir-Book'] text-[12px] ms-1">
                     <p>{selectedColors[product.id]}</p>
                 </div>
             )}

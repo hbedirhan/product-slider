@@ -11,7 +11,7 @@ function ViewButton() {
           <path d="M6.50391 6.44349L10.2389 4.00652C10.7642 3.67038 11.3773 3.49146 12.0039 3.49146C12.6305 3.49146 13.2436 3.67038 13.7689 4.00652L17.5039 6.44349" strokeWidth="1.5" strokeLinecap="round" />
           <path d="M18.4949 14.3142H18.5049" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
         </svg>
-        <span className="ml-2 font-['Montserrat-Medium'] text-base">VIEW ALL PRODUCTS</span>
+        <span className="ml-2 font-['Montserrat-Medium'] text-[17px]">VIEW ALL PRODUCTS</span>
       </button>
     </div>
   );

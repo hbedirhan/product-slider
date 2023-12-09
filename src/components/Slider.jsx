@@ -180,20 +180,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => handleButtonClick('Y', 'Yellow Gold')}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => handleButtonClick('W', 'White Gold')}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => handleButtonClick('R', 'Rose Gold')}>o</button>
-                </span>
+                  <button className='cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black' onClick={() => handleButtonClick('Y', 'Yellow Gold')}></button>
+                  <button className='cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black' onClick={() => handleButtonClick('W', 'White Gold')}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => handleButtonClick('R', 'Rose Gold')}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text1}</p>
@@ -209,20 +198,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar2('Y'); setText2('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar2('W'); setText2('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar2('R'); setText2('Rose Gold')}}>o</button>
-                </span>
+                  <button className='cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black' onClick={() => {setChar2('Y'); setText2('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar2('W'); setText2('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar2('R'); setText2('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text2}</p>
@@ -238,20 +216,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar3('Y'); setText3('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar3('W'); setText3('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar3('R'); setText3('Rose Gold')}}>o</button>
-                </span>
+                  <button className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar3('Y'); setText3('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar3('W'); setText3('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar3('R'); setText3('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text3}</p>
@@ -267,20 +234,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar4('Y'); setText4('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar4('W'); setText4('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar4('R'); setText4('Rose Gold')}}>o</button>
-                </span>
+                  <button className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar4('Y'); setText4('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar4('W'); setText4('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar4('R'); setText4('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text4}</p>
@@ -296,20 +252,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar5('Y'); setText5('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar5('W'); setText5('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar5('R'); setText5('Rose Gold')}}>o</button>
-                </span>
+                  <button className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar5('Y'); setText5('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar5('W'); setText5('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar5('R'); setText5('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text5}</p>
@@ -325,20 +270,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar6('Y'); setText6('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar6('W'); setText6('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar6('R'); setText6('Rose Gold')}}>o</button>
-                </span>
+                  <button className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar6('Y'); setText6('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar6('W'); setText6('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar6('R'); setText6('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text6}</p>
@@ -354,20 +288,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar7('Y'); setText7('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar7('W'); setText7('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar7('R'); setText7('Rose Gold')}}>o</button>
-                </span>
+                  <button className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar7('Y'); setText7('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar7('W'); setText7('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar7('R'); setText7('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text7}</p>
@@ -383,20 +306,9 @@ function Slider() {
                 <p className="text-base">$101.00 USD</p>
               </div>
               <div className="py-2">
-                <span
-                  className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-5 h-5 mr-1 text-[#E6CA97]">
-                  <button onClick={() => {setChar8('Y'); setText8('Yellow Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-5 h-5 mr-1 text-[#D9D9D9]"
-                >
-                  <button onClick={() => {setChar8('W'); setText8('White Gold')}}>o</button>
-                </span>
-                <span
-                  className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-5 h-5 text-[#E1A4A9]"
-                >
-                  <button onClick={() => {setChar8('R'); setText8('Rose Gold')}}>o</button>
-                </span>
+                  <button className="cursor-pointer inline-block bg-[#E6CA97] rounded-full w-4 h-4 ms-1 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar8('Y'); setText8('Yellow Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#D9D9D9] rounded-full w-4 h-4 mr-1 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar8('W'); setText8('White Gold')}}></button>
+                  <button className="cursor-pointer inline-block bg-[#E1A4A9] rounded-full w-4 h-4 focus:ring-1 focus:ring-offset-1 focus:ring-black" onClick={() => {setChar8('R'); setText8('Rose Gold')}}></button>
               </div>
                 <div className="inline-block font-['Avenir-Book'] text-sm">
                   <p>{text8}</p>

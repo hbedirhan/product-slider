@@ -16,9 +16,9 @@ const ThemeToggle = () => {
   };
 
   return (
-    <div className="fixed top-4 right-4 z-50 transition-transform duration-300 transform hover:scale-110">
+    <div className="absolute top-4 right-4 z-50 transition-transform duration-300 transform hover:scale-110">
       <button
-        className="p-2 text-white rounded-full focus:outline-none w-14 h-14 transition-transform duration-300 transform hover:scale-110"
+        className="p-2 rounded-full focus:outline-none w-14 h-14 transition-transform duration-300 transform hover:scale-110"
         onClick={toggleDarkMode}
       >
         {darkMode ? (

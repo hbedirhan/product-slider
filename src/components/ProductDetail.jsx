@@ -10,7 +10,7 @@ function ProductDetail({ product }) {
                 <div className="max-w-screen-lg mx-auto p-8 rounded-lg shadow-md">
                     <h2 className="text-3xl font-['Montserrat-Medium'] mb-4">{product.title}</h2>
                     <img
-                        src={`${product.images[char]}`}
+                        src={product.images[char]}
                         alt={product.title}
                         className="w-full h-auto rounded-lg mb-4"
                     />

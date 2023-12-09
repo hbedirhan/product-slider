@@ -12,3 +12,8 @@ span svg path {
     fill-rule: evenodd;
     clip-rule: evenodd;
 }
+
+.dark {
+    background-color: #0F0F0F;
+    color: white;
+}

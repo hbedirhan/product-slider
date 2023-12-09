@@ -173,7 +173,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char1}.jpg`}
+                src={`/images/EG009/EG009-${char1}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -202,7 +202,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char2}.jpg`}
+                src={`/images/EG009/EG009-${char2}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -231,7 +231,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char3}.jpg`}
+                src={`/images/EG009/EG009-${char3}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -260,7 +260,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char4}.jpg`}
+                src={`/images/EG009/EG009-${char4}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -289,7 +289,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char5}.jpg`}
+                src={`/images/EG009/EG009-${char5}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -318,7 +318,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char6}.jpg`}
+                src={`/images/EG009/EG009-${char6}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -347,7 +347,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char7}.jpg`}
+                src={`/images/EG009/EG009-${char7}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>
@@ -376,7 +376,7 @@ function Slider() {
             <div className="flex-shrink-0 max-w-md mr-40 overflow-hidden">
               <img
                 className="w-48 h-48 object-cover rounded-xl"
-                src={`public/images/EG009/EG009-${char8}.jpg`}
+                src={`/images/EG009/EG009-${char8}.jpg`}
               />
               <div className="py-4 font-['Montserrat-Medium']">
                 <div className="text-sm mb-1">Engagement Ring 1</div>

@@ -1,11 +1,16 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 function Navbar() {
   return (
     <>
       <nav className="pt-20 lg:ms-40 lg:me-40 sm:me-10 sm:ms-10 md:me-20 md:ms-20">
         <div className="container mx-auto flex justify-between items-center">
-          <div className="text-lg font-['Avenir-Book'] font-bold">MY JEWELRY STORE</div>
+          <div className="text-lg font-['Avenir-Book'] font-bold">
+            <NavLink to='/'>
+            MY JEWELRY STORE
+            </NavLink>
+            </div>
           <ul className="flex space-x-10">
             <li>
               <a href="#">

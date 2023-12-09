@@ -4,9 +4,9 @@ const products = [
         'title': 'Engagement Ring 1',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG009/EG009-Y.jpg',
-            'White Gold': 'src/assets/images/EG009/EG009-W.jpg',
-            'Rose Gold': 'src/assets/images/EG009/EG009-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG009/EG009-Y.jpg',
+            'White Gold': '/src/assets/images/EG009/EG009-W.jpg',
+            'Rose Gold': '/src/assets/images/EG009/EG009-R.jpg'
         }
     },
     {
@@ -14,9 +14,9 @@ const products = [
         'title': 'Engagement Ring 2',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG012/EG012-Y.jpg',
-            'White Gold': 'src/assets/images/EG012/EG012-W.jpg',
-            'Rose Gold': 'src/assets/images/EG012/EG012-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG012/EG012-Y.jpg',
+            'White Gold': '/src/assets/images/EG012/EG012-W.jpg',
+            'Rose Gold': '/src/assets/images/EG012/EG012-R.jpg'
         }
     },
     {
@@ -24,9 +24,9 @@ const products = [
         'title': 'Engagement Ring 3',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG020/EG020-200P-Y.jpg',
-            'White Gold': 'src/assets/images/EG020/EG020-200P-W.jpg',
-            'Rose Gold': 'src/assets/images/EG020/EG020-200P-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG020/EG020-200P-Y.jpg',
+            'White Gold': '/src/assets/images/EG020/EG020-200P-W.jpg',
+            'Rose Gold': '/src/assets/images/EG020/EG020-200P-R.jpg'
         }
     },
     {
@@ -34,9 +34,9 @@ const products = [
         'title': 'Engagement Ring 4',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG022/EG022-100P-Y.jpg',
-            'White Gold': 'src/assets/images/EG022/EG022-100P-W.jpg',
-            'Rose Gold': 'src/assets/images/EG022/EG022-100P-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG022/EG022-100P-Y.jpg',
+            'White Gold': '/src/assets/images/EG022/EG022-100P-W.jpg',
+            'Rose Gold': '/src/assets/images/EG022/EG022-100P-R.jpg'
         }
     },
     {
@@ -44,9 +44,9 @@ const products = [
         'title': 'Engagement Ring 5',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG074/EG074-200P-Y.jpg',
-            'White Gold': 'src/assets/images/EG074/EG074-100P-W.jpg',
-            'Rose Gold': 'src/assets/images/EG074/EG074-200P-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG074/EG074-200P-Y.jpg',
+            'White Gold': '/src/assets/images/EG074/EG074-100P-W.jpg',
+            'Rose Gold': '/src/assets/images/EG074/EG074-200P-R.jpg'
         }
     },
     {
@@ -54,9 +54,9 @@ const products = [
         'title': 'Engagement Ring 6',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG075/EG075-200P-Y.jpg',
-            'White Gold': 'src/assets/images/EG075/EG075-200P-W.jpg',
-            'Rose Gold': 'src/assets/images/EG075/EG075-200P-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG075/EG075-200P-Y.jpg',
+            'White Gold': '/src/assets/images/EG075/EG075-200P-W.jpg',
+            'Rose Gold': '/src/assets/images/EG075/EG075-200P-R.jpg'
         }
     },
     {
@@ -64,9 +64,9 @@ const products = [
         'title': 'Engagement Ring 7',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG094/EG094-200P-Y.jpg',
-            'White Gold': 'src/assets/images/EG094/EG094-200P-W.jpg',
-            'Rose Gold': 'src/assets/images/EG094/EG094-200P-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG094/EG094-200P-Y.jpg',
+            'White Gold': '/src/assets/images/EG094/EG094-200P-W.jpg',
+            'Rose Gold': '/src/assets/images/EG094/EG094-200P-R.jpg'
         }
     },
     {
@@ -74,9 +74,9 @@ const products = [
         'title': 'Engagement Ring 8',
         'price': '$101.00 USD',
         'images': {
-            'Yellow Gold': 'src/assets/images/EG115/EG115-100P-Y.jpg',
-            'White Gold': 'src/assets/images/EG115/EG115-100P-W.jpg',
-            'Rose Gold': 'src/assets/images/EG115/EG115-100P-R.jpg'
+            'Yellow Gold': '/src/assets/images/EG115/EG115-100P-Y.jpg',
+            'White Gold': '/src/assets/images/EG115/EG115-100P-W.jpg',
+            'Rose Gold': '/src/assets/images/EG115/EG115-100P-R.jpg'
         }
     },
 

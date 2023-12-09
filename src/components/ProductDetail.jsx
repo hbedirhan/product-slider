@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 function ProductDetail({ product }) {
 
     const [char, setChar] = useState('Yellow Gold')
-    console.log(product);
     return (
         <>
             <div className="container mx-auto p-8">
